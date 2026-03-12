@@ -26,17 +26,6 @@
 > Mapped customer journeys and proposed data architecture for scalable analytics  
 `Business Analysis` `Data Architecture` `Customer Journey Mapping`
 
-### 📊 [Customer Segmentation & RFM Analysis](https://github.com/mbpfreudenthal/customer-segmentation-rfm)
-> End-to-end segmentation pipeline using RFM methodology  
-`Python` `Pandas` `Scikit-learn` `Clustering` `Marketing Analytics`
-
-### 🤖 [Marketing ML Models](https://github.com/mbpfreudenthal/marketing-ml-models)
-> Predictive models for customer behaviour in marketing contexts  
-`Python` `Machine Learning` `Scikit-learn` `Classification` `Regression`
-
-### 📈 [Power BI Dashboards](https://github.com/mbpfreudenthal/powerbi-dashboards)
-> Collection of business intelligence dashboards  
-`Power BI` `DAX` `Data Visualization` `KPIs`
 
 ---
 
